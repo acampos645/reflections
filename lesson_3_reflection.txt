@@ -1,3 +1,5 @@
 This is where the Lesson 3 reflections would go
 
 These changes were made on github and not on git bash
+
+Let's add this line just for fun
